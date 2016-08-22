@@ -11,6 +11,7 @@ This script is designed to install and configure Sparta student and trainer macO
 4. Wait **Ages**!
 5. Install XCode (via App Store)
 6. Celebrate 🍻!
+7. Profit
 
 ### What does it do?
 
